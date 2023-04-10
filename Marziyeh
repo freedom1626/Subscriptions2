@@ -1,0 +1,4 @@
+vless://d8645941-2fdc-4ab4-fcfc-608ea93a3781@mtn.alitech2002se.top:443?security=tls&sni=ser1.alitech2002se.top&type=grpc&serviceName=@MTN+Server1#Marziyeh%201
+vless://d8645941-2fdc-4ab4-fcfc-608ea93a3781@mtn2.alitech2002se.top:443?security=tls&sni=ser1.alitech2002se.top&type=grpc&serviceName=@MTN+Server1#Marziyeh%202
+vless://d8645941-2fdc-4ab4-fcfc-608ea93a3781@mtn3.alitech2002se.top:443?security=tls&sni=ser1.alitech2002se.top&type=grpc&serviceName=@MTN+Server1#Marziyeh%203
+vless://d8645941-2fdc-4ab4-fcfc-608ea93a3781@mtn4.alitech2002se.top:443?security=tls&sni=ser1.alitech2002se.top&type=grpc&serviceName=@MTN+Server1#Marziyeh%204

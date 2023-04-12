@@ -1,0 +1,4 @@
+vless://058f7e9a-f73e-4b6d-abe8-a93276839f02@mtn.alitech2002se.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MTN Server1&sni=ser1.alitech2002se.top#MTN-Fatemeh+1
+vless://058f7e9a-f73e-4b6d-abe8-a93276839f02@mtn2.alitech2002se.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MTN Server1&sni=ser1.alitech2002se.top#MTN-Fatemeh+2
+vless://058f7e9a-f73e-4b6d-abe8-a93276839f02@mtn3.alitech2002se.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MTN Server1&sni=ser1.alitech2002se.top#MTN-Fatemeh+3
+vless://058f7e9a-f73e-4b6d-abe8-a93276839f02@mtn4.alitech2002se.top:443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@MTN Server1&sni=ser1.alitech2002se.top#MTN-Fatemeh+4
